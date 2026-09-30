@@ -1,0 +1,8 @@
+* text=auto
+*.m text eol=lf
+*.md text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+# Preserve the supplied reference script byte-for-byte.
+original/Ultimate_Composite_Project.m -text

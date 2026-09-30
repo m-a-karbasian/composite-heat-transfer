@@ -1,0 +1,11 @@
+# MATLAB generated files and local results
+*.asv
+*.m~
+*.mex*
+slprj/
+results/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
